@@ -1,4 +1,4 @@
-name: local_auth_example
+name: local_auth_strong_biometric_example
 description: Demonstrates how to use the local_auth plugin.
 publish_to: none
 

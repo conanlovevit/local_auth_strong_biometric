@@ -218,13 +218,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "local_auth",
+      "name": "local_auth_strong_biometric",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2024-01-08T09:47:48.342397Z",
+  "generated": "2024-01-08T10:26:50.779071Z",
   "generator": "pub",
   "generatorVersion": "2.19.3"
 }

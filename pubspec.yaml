@@ -1,4 +1,4 @@
-name: local_auth
+name: local_auth_strong_biometric
 description: Flutter plugin for Android and iOS devices to allow local
   authentication via fingerprint, touch ID, face ID, passcode, pin, or pattern.
 repository: https://github.com/flutter/plugins/tree/main/packages/local_auth/local_auth
