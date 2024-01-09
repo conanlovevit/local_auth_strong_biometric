@@ -122,7 +122,7 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.6.5"
-  local_auth:
+  local_auth_strong_biometric:
     dependency: "direct main"
     description:
       path: ".."

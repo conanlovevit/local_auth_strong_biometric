@@ -12,10 +12,10 @@
 @import integration_test;
 #endif
 
-#if __has_include(<local_auth/FLTLocalAuthPlugin.h>)
-#import <local_auth/FLTLocalAuthPlugin.h>
+#if __has_include(<local_auth_strong_biometric/FLTLocalAuthPlugin.h>)
+#import <local_auth_strong_biometric/FLTLocalAuthPlugin.h>
 #else
-@import local_auth;
+@import local_auth_strong_biometric;
 #endif
 
 @implementation GeneratedPluginRegistrant
