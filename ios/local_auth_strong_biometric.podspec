@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'local_auth'
+  s.name             = 'local_auth_strong_biometric'
   s.version          = '0.0.1'
   s.summary          = 'Flutter Local Auth'
   s.description      = <<-DESC
@@ -17,7 +17,7 @@ Downloaded by pub (not CocoaPods).
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
-  s.platform = :ios, '9.0'
+  s.platform = :ios, '11.0'
   s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 end
 
