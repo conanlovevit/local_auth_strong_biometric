@@ -81,7 +81,7 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.17.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.18.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -206,7 +206,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2024-08-13T07:14:42.677377Z",
+  "generated": "2024-08-13T08:41:35.178376Z",
   "generator": "pub",
   "generatorVersion": "3.2.0"
 }
