@@ -22,7 +22,8 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 31
+    namespace 'io.flutter.plugins.localauthstrong'
+    compileSdkVersion 34
 
     defaultConfig {
         minSdkVersion 16
