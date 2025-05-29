@@ -29,7 +29,6 @@ import androidx.lifecycle.Lifecycle;
 import androidx.lifecycle.LifecycleOwner;
 import io.flutter.plugin.common.MethodCall;
 import java.util.concurrent.Executor;
-import io.flutter.plugins.localauth.R;
 
 /**
  * Authenticates the user with biometrics and sends corresponding response back to Flutter.
