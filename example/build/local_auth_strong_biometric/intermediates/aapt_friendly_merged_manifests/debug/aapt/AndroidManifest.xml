@@ -3,8 +3,8 @@
     package="io.flutter.plugins.localauth" >
 
     <uses-sdk
-        android:minSdkVersion="16"
-        android:targetSdkVersion="16" />
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21" />
 
     <uses-permission android:name="android.permission.USE_FINGERPRINT" />
 
