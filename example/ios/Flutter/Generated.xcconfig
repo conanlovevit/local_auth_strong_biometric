@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
-FLUTTER_ROOT=C:\src\flutter
-FLUTTER_APPLICATION_PATH=D:\Working\Flutter\local_auth-1.1.11\example
+FLUTTER_ROOT=C:\Users\Hoang Thor\fvm\versions\3.24.5
+FLUTTER_APPLICATION_PATH=D:\Working\My APP\local_auth_strong\local_auth_strong_biometric\example
 COCOAPODS_PARALLEL_CODE_SIGN=true
 FLUTTER_TARGET=lib\main.dart
 FLUTTER_BUILD_DIR=build

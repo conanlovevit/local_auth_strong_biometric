@@ -39,19 +39,19 @@
     },
     {
       "name": "file",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/file-6.1.4",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/file-7.0.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "flutter",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.16.0/packages/flutter",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.24.5/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "flutter_driver",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.16.0/packages/flutter_driver",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.24.5/packages/flutter_driver",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -63,19 +63,19 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.16.0/packages/flutter_test",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.24.5/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "fuchsia_remote_debug_protocol",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.16.0/packages/fuchsia_remote_debug_protocol",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.24.5/packages/fuchsia_remote_debug_protocol",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
     {
       "name": "integration_test",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.16.0/packages/integration_test",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.24.5/packages/integration_test",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -86,6 +86,24 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "leak_tracker",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_flutter_testing",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_flutter_testing-3.0.5",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
+      "name": "leak_tracker_testing",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker_testing-3.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "3.2"
+    },
+    {
       "name": "local_auth_strong_biometric",
       "rootUri": "../../",
       "packageUri": "lib/",
@@ -93,27 +111,27 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/matcher-0.12.16+1",
       "packageUri": "lib/",
-      "languageVersion": "2.18"
+      "languageVersion": "3.0"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.5.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/material_color_utilities-0.11.1",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "meta",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.10.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/meta-1.15.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
     {
       "name": "path",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.8.3",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/path-1.9.0",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.0"
     },
     {
       "name": "pedantic",
@@ -123,19 +141,19 @@
     },
     {
       "name": "platform",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.2",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/platform-3.1.5",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.2"
     },
     {
       "name": "process",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/process-4.2.4",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/process-5.0.2",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "3.0"
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.16.0/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.24.5/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -177,9 +195,9 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.6.1",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/test_api-0.7.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.2"
     },
     {
       "name": "vector_math",
@@ -189,19 +207,13 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-11.10.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.2.5",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
-    },
-    {
-      "name": "web",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/web-0.3.0",
-      "packageUri": "lib/",
-      "languageVersion": "3.2"
+      "languageVersion": "3.3"
     },
     {
       "name": "webdriver",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/webdriver-3.0.2",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/webdriver-3.0.3",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -212,7 +224,10 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-05-14T07:50:43.821073Z",
+  "generated": "2025-05-29T03:17:54.651313Z",
   "generator": "pub",
-  "generatorVersion": "3.2.0"
+  "generatorVersion": "3.5.4",
+  "flutterRoot": "file:///C:/Users/Hoang%20Thor/fvm/versions/3.24.5",
+  "flutterVersion": "3.24.5",
+  "pubCache": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache"
 }
