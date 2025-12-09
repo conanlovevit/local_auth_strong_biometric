@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=C:\Users\Hoang Thor\fvm\versions\3.24.5"
-export "FLUTTER_APPLICATION_PATH=D:\Working\My APP\local_auth_strong\local_auth_strong_biometric\example"
+export "FLUTTER_ROOT=D:\fvm\versions\3.29.3"
+export "FLUTTER_APPLICATION_PATH=D:\Working\Flutter\local_auth_strong_biometric_332\local_auth_strong_biometric\example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"

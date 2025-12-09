@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.13.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/async-2.12.0",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -33,7 +33,7 @@
     },
     {
       "name": "fake_async",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.3",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/fake_async-1.3.2",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
@@ -45,13 +45,13 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///D:/fvm/versions/3.32.8/packages/flutter",
+      "rootUri": "file:///D:/fvm/versions/3.29.3/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "flutter_driver",
-      "rootUri": "file:///D:/fvm/versions/3.32.8/packages/flutter_driver",
+      "rootUri": "file:///D:/fvm/versions/3.29.3/packages/flutter_driver",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -63,31 +63,31 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///D:/fvm/versions/3.32.8/packages/flutter_test",
+      "rootUri": "file:///D:/fvm/versions/3.29.3/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "fuchsia_remote_debug_protocol",
-      "rootUri": "file:///D:/fvm/versions/3.32.8/packages/fuchsia_remote_debug_protocol",
+      "rootUri": "file:///D:/fvm/versions/3.29.3/packages/fuchsia_remote_debug_protocol",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "integration_test",
-      "rootUri": "file:///D:/fvm/versions/3.32.8/packages/integration_test",
+      "rootUri": "file:///D:/fvm/versions/3.29.3/packages/integration_test",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
     {
       "name": "intl",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.20.2",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.19.0",
       "packageUri": "lib/",
-      "languageVersion": "3.3"
+      "languageVersion": "3.0"
     },
     {
       "name": "leak_tracker",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.9",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/leak_tracker-10.0.8",
       "packageUri": "lib/",
       "languageVersion": "3.2"
     },
@@ -147,7 +147,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///D:/fvm/versions/3.32.8/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///D:/fvm/versions/3.29.3/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.7"
     },
@@ -201,13 +201,13 @@
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-15.0.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/vm_service-14.3.1",
       "packageUri": "lib/",
       "languageVersion": "3.3"
     },
     {
       "name": "webdriver",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/webdriver-3.1.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/webdriver-3.0.4",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -218,9 +218,10 @@
       "languageVersion": "3.0"
     }
   ],
+  "generated": "2025-12-09T07:05:53.331532Z",
   "generator": "pub",
-  "generatorVersion": "3.8.1",
-  "flutterRoot": "file:///D:/fvm/versions/3.32.8",
-  "flutterVersion": "3.32.8",
+  "generatorVersion": "3.7.2",
+  "flutterRoot": "file:///D:/fvm/versions/3.29.3",
+  "flutterVersion": "3.29.3",
   "pubCache": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache"
 }
