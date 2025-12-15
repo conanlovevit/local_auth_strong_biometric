@@ -1,17 +1,20 @@
 {
   "roots": [
-    "local_auth_strong_biometric_example"
+    "local_auth_strong_biometric"
   ],
   "packages": [
     {
-      "name": "local_auth_strong_biometric_example",
-      "version": "0.0.0",
+      "name": "local_auth_strong_biometric",
+      "version": "1.1.11",
       "dependencies": [
         "flutter",
-        "local_auth_strong_biometric"
+        "flutter_plugin_android_lifecycle",
+        "intl",
+        "platform"
       ],
       "devDependencies": [
         "flutter_driver",
+        "flutter_test",
         "integration_test",
         "pedantic"
       ]
@@ -55,6 +58,34 @@
       ]
     },
     {
+      "name": "flutter_test",
+      "version": "0.0.0",
+      "dependencies": [
+        "async",
+        "boolean_selector",
+        "characters",
+        "clock",
+        "collection",
+        "fake_async",
+        "flutter",
+        "leak_tracker",
+        "leak_tracker_flutter_testing",
+        "leak_tracker_testing",
+        "matcher",
+        "material_color_utilities",
+        "meta",
+        "path",
+        "source_span",
+        "stack_trace",
+        "stream_channel",
+        "string_scanner",
+        "term_glyph",
+        "test_api",
+        "vector_math",
+        "vm_service"
+      ]
+    },
+    {
       "name": "flutter_driver",
       "version": "0.0.0",
       "dependencies": [
@@ -89,13 +120,24 @@
       ]
     },
     {
-      "name": "local_auth_strong_biometric",
-      "version": "1.1.11",
+      "name": "platform",
+      "version": "3.1.6",
+      "dependencies": []
+    },
+    {
+      "name": "intl",
+      "version": "0.20.2",
       "dependencies": [
-        "flutter",
-        "flutter_plugin_android_lifecycle",
-        "intl",
-        "platform"
+        "clock",
+        "meta",
+        "path"
+      ]
+    },
+    {
+      "name": "flutter_plugin_android_lifecycle",
+      "version": "2.0.31",
+      "dependencies": [
+        "flutter"
       ]
     },
     {
@@ -292,34 +334,6 @@
       "dependencies": []
     },
     {
-      "name": "flutter_test",
-      "version": "0.0.0",
-      "dependencies": [
-        "async",
-        "boolean_selector",
-        "characters",
-        "clock",
-        "collection",
-        "fake_async",
-        "flutter",
-        "leak_tracker",
-        "leak_tracker_flutter_testing",
-        "leak_tracker_testing",
-        "matcher",
-        "material_color_utilities",
-        "meta",
-        "path",
-        "source_span",
-        "stack_trace",
-        "stream_channel",
-        "string_scanner",
-        "term_glyph",
-        "test_api",
-        "vector_math",
-        "vm_service"
-      ]
-    },
-    {
       "name": "process",
       "version": "5.0.3",
       "dependencies": [
@@ -327,11 +341,6 @@
         "path",
         "platform"
       ]
-    },
-    {
-      "name": "platform",
-      "version": "3.1.6",
-      "dependencies": []
     },
     {
       "name": "fuchsia_remote_debug_protocol",
@@ -343,22 +352,6 @@
         "platform",
         "process",
         "vm_service"
-      ]
-    },
-    {
-      "name": "intl",
-      "version": "0.20.2",
-      "dependencies": [
-        "clock",
-        "meta",
-        "path"
-      ]
-    },
-    {
-      "name": "flutter_plugin_android_lifecycle",
-      "version": "2.0.19",
-      "dependencies": [
-        "flutter"
       ]
     },
     {
