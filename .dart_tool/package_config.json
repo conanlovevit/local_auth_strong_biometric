@@ -81,9 +81,9 @@
     },
     {
       "name": "intl",
-      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.19.0",
+      "rootUri": "file:///C:/Users/Hoang%20Thor/AppData/Local/Pub/Cache/hosted/pub.dev/intl-0.20.2",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "3.3"
     },
     {
       "name": "leak_tracker",
@@ -218,7 +218,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2025-12-09T07:05:53.331532Z",
+  "generated": "2025-12-15T07:11:50.654514Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///D:/fvm/versions/3.29.3",
